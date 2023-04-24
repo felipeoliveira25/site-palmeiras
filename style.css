@@ -1,0 +1,74 @@
+.navbar{
+    background-color: #fff;
+    padding: 0;
+}
+
+.logo{
+    width: 170px;
+    height: 100px;
+}
+
+.nav-item{
+    color: #0caf0c;
+}
+
+.navlink:hover{
+    color: #075f07;
+}
+
+#navbarDropdown{
+    color: #0caf0c;
+    margin-left: 15px;
+}
+
+#navbarDropdown:hover {
+    color: #075f07;
+}
+.titulo-dropdown{
+    color: #145714;
+}
+.bg-success {
+    background-color: #099109;
+}
+
+.imagem-carrossel{
+    object-fit: cover;
+    object-position: 0 50%;
+    height: 400px;
+}
+
+.dropdown-menu {
+    width: 500px;
+}
+.titulo-dropdown {
+    padding-left: 25px;
+}
+.titulo-destaques {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.icon-ticket{
+    margin-right: 10px;
+    color: #099109;
+}
+.icon-ticket:hover {
+    color: #075f07;
+}
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.golaVerde{
+    height: 196px;
+}
+.cards2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#barra{
+    width: 80px;
+}
